@@ -1,5 +1,5 @@
 # Weather_Application
-Link for the website: 
+Link for the website: https://sonu2462.github.io/Weather_Application/
 <br>
 This project is a simple weather app that displays the current weather conditions for a given city.<br>
 
